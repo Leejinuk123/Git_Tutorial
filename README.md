@@ -147,3 +147,7 @@ My e-mail address <leejinouk123@kakao.com>
 * * *
 ## 8. Table
 `Table` 생성에 대해서는 추후에 추가할 예정이다.
+
+***
+해당 글은
+`2021 - 11 - 09에 수정`
