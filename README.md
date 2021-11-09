@@ -124,7 +124,7 @@ Syntax 마크다운 사용법
 
 `[타이틀](#1-title_tutorial-또는-headers)`
 
-[1. Title_tutorial 또는 Headers](#1-title_tutorial-또는-headers)
+[1. Title_tutorial 또는 Headers](#1-타이틀과-헤더)
 
 ### 7-2. 외부 링크 삽입
 외부에서의 `이동`에 사용된다.
