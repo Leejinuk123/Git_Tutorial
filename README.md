@@ -1,5 +1,5 @@
 # Git_Tutorial 
-## 1. Title_Tutorial(Headers 헤더)
+## 1. Title_Tutorial 또는 Headers
 `깃(Git)`에서 `마크다운(Markdown)`을 어떻게 사용하는 지에 대한 나를 위한 정리이다.
 
 본 Title에 대한 글씨 크기는 `#`을 통해 조정할 수 있다.
@@ -16,7 +16,7 @@
 ###### Title 문단에 사용
 ```
 * * * 
-## 2. Subtitle_Tutorial(또는 인용문)
+## 2. Subtitle_Tutorial 또는 인용문
 >## 인용
 >>## 인용
 >>>## 인용
@@ -116,4 +116,4 @@ Syntax 마크다운 사용법
         2. Item 2
         3. Item 3
 
-[타이틀](#1.-title_tutorial(headers-헤더))
+[타이틀](#1-title_tutorial-또는-headers)
