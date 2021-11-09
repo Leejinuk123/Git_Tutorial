@@ -73,13 +73,13 @@ Code Block
 * 취소선 : `~~`로 감싼 텍스트.
 * 이탤릭체와 두껍게를 같이 사용할 수 있다.
 
-## 5. List_Tutorial
+## 6. List_Tutorial
 
-### 5-1. Unordered lists 순서가 없는 목록
+### 6-1. Unordered lists 순서가 없는 목록
 `*`, `+`, `-` 를 이용해서 `순서가 없는 목록`을 만들 수 있다.
 들여쓰기를 하면 모양이 바뀐다.
 
-### 5-2. Ordered lists 순서가 있는 목록
+### 6-2. Ordered lists 순서가 있는 목록
 `숫자를 기입`하면 `순서가 있는 목록`이 된다.
 `들여쓰기`를 하면 모양이 바다.
 ```
@@ -116,4 +116,10 @@ Syntax 마크다운 사용법
         2. Item 2
         3. Item 3
 
-[타이틀](#1.-title_tutorial-또는-headers)
+## 7. Link_Tutorial
+### 7-1. 내부 링크 삽입
+내부에서의 `헤더 이동`에 사용된다.
+
+`[타이틀](#1-title_tutorial-또는-headers)`
+
+[1. Title_tutorial 또는 Headers](#1-title_tutorial-또는-headers)
