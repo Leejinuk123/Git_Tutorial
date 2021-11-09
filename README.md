@@ -1,5 +1,5 @@
 # Git_Tutorial 
-## 1. Title_Tutorial 또는 Headers
+## 타이틀과 헤더
 `깃(Git)`에서 `마크다운(Markdown)`을 어떻게 사용하는 지에 대한 나를 위한 정리이다.
 
 본 Title에 대한 글씨 크기는 `#`을 통해 조정할 수 있다.
@@ -16,7 +16,7 @@
 ###### Title 문단에 사용
 ```
 * * * 
-## 2. Subtitle_Tutorial 또는 인용문
+## 2. 인용문
 >## 인용
 >>## 인용
 >>>## 인용
@@ -27,14 +27,14 @@
 >>> 인용
 ```
 
-## 3. Line_Tutorial
+## 3. 선 삽입
 * * *
 `* * *`을 삽입하며 `큰 줄`을 본문에 삽입할 수 있다.  
 `***`도 사용가능하다.
 
 * * *
 
-## 4. Picture_Tutorial
+## 4. 사진 첨부
 `사진 첨부`에 관한 내용이다.
 
 #### 1. issue에 첨부할 사진을 업로드 후 생성되는 `링크(Url,Web address)를 Git에 첨부`하거나.
@@ -52,7 +52,7 @@
 ![image2](https://user-images.githubusercontent.com/50895677/140864460-44930060-6077-4d25-8d68-8c3e43394bf9.png)
 
 * * *
-## 5. MainText_Tutorial
+## 5. 본문
 본문 기술에 사용하는 `마크다운(Markdown)` 형식이다.
 
 ### 5-1. 코드설명
@@ -74,7 +74,7 @@ Code Block
 * 취소선 : `~~`로 감싼 텍스트.
 * 이탤릭체와 두껍게를 같이 사용할 수 있다.
 ***
-## 6. List_Tutorial
+## 6. 리스트
 
 ### 6-1. Unordered lists 순서가 없는 목록
 `*`, `+`, `-` 를 이용해서 `순서가 없는 목록`을 만들 수 있다.
@@ -118,7 +118,7 @@ Syntax 마크다운 사용법
         3. Item 3
 
 ***
-## 7. Link_Tutorial
+## 7. 링크 삽입
 ### 7-1. 내부 링크 삽입
 내부에서의 `헤더 이동`에 사용된다.
 
@@ -145,7 +145,7 @@ My e-mail address <leejinouk123@kakao.com>
 My e-mail address <leejinouk123@kakao.com>
 
 * * *
-## 8. Table
+## 8. 테이블
 `Table` 생성에 대해서는 추후에 추가할 예정이다.
 
 ***
