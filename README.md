@@ -29,7 +29,8 @@
 
 ## 3. Line_Tutorial
 * * *
-`* * *`을 삽입하며 `큰 줄`을 본문에 삽입할 수 있다.
+`* * *`을 삽입하며 `큰 줄`을 본문에 삽입할 수 있다.  
+`***`도 사용가능하다.
 
 * * *
 
@@ -72,7 +73,7 @@ Code Block
 * 두껍게 쓰기(bold) : `**` 또는 `__`로 감싼 텍스트.
 * 취소선 : `~~`로 감싼 텍스트.
 * 이탤릭체와 두껍게를 같이 사용할 수 있다.
-
+***
 ## 6. List_Tutorial
 
 ### 6-1. Unordered lists 순서가 없는 목록
@@ -116,6 +117,7 @@ Syntax 마크다운 사용법
         2. Item 2
         3. Item 3
 
+***
 ## 7. Link_Tutorial
 ### 7-1. 내부 링크 삽입
 내부에서의 `헤더 이동`에 사용된다.
@@ -123,3 +125,25 @@ Syntax 마크다운 사용법
 `[타이틀](#1-title_tutorial-또는-headers)`
 
 [1. Title_tutorial 또는 Headers](#1-title_tutorial-또는-headers)
+
+### 7-2. 외부 링크 삽입
+외부에서의 `이동`에 사용된다.
+
+```
+[Google](http://www.google.com "구글")
+[Naver](http://www.naver.com "네이버")
+[Github](http://www.github.com "깃허브")
+구글 www.google.com;
+네이버 <www.naver.com>;
+My e-mail address <leejinouk123@kakao.com>
+```
+
+[Google](http://www.google.com "구글")  
+[Github](http://www.github.com "깃허브")  
+구글 www.google.com;  
+네이버 <www.naver.com>;  
+My e-mail address <leejinouk123@kakao.com>
+
+* * *
+## 8. Table
+`Table` 생성에 대해서는 추후에 추가할 예정이다.
