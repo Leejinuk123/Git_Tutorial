@@ -116,4 +116,4 @@ Syntax 마크다운 사용법
         2. Item 2
         3. Item 3
 
-[타이틀](#1-title_tutorial-또는-headers)
+[타이틀](#1.-title_tutorial-또는-headers)
