@@ -43,6 +43,8 @@
 
 #### 3. 이미지의 사이즈를 변경하기 위해서는 링크 뒤에 `{: width="100" height="100"}`와 같이 표현합니다.
 
+#### 4. <img src="/img/myImg.png" width="300" height="300">
+
 
 >### 1번 방식
 ![image1](https://user-images.githubusercontent.com/50895677/140864400-beac9f5b-a92b-405d-8249-b519efdb9294.png)
